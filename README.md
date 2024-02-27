@@ -3,7 +3,7 @@
 # Profil Fanza Atsila Fizarli
 
 ## Perkenalan
-Halo! Nama saya Fanza Atsila Fizarli, saya merupakan mahasiswa di POLBAN yang berusia 19 tahun. Saya tinggal di Cimahi.
+Halo! Nama saya Fanza Atsila Fizarli, saya merupakan mahasiswa di Kampus POLBAN Jurusan Teknik Komputer dan Informatika Prodi D4-Teknik Informatika yang berusia 19 tahun. Saya tinggal di Cimahi.
 
 ## Teknologi yang Saya Kuasai
 - Laravel (90%)
